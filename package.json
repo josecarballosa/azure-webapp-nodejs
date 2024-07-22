@@ -1,0 +1,12 @@
+{
+  "name": "azure-webapp-nodejs",
+  "version": "1.0.0",
+  "description": "A simple Node.js server for deployment in as Azure Web App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Jose Carballosa",
+  "license": "MIT"
+}
