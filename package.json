@@ -1,6 +1,6 @@
 {
   "name": "azure-webapp-nodejs",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A simple Node.js server for deployment in as Azure Web App",
   "main": "index.js",
   "scripts": {
